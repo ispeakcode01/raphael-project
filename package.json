@@ -1,0 +1,26 @@
+{
+  "name": "raphael-project",
+  "version": "1.0.0",
+  "description": "EDA group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lory-costa/raphael-project.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "lory-jared-kateti-alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lory-costa/raphael-project/issues"
+  },
+  "homepage": "https://github.com/lory-costa/raphael-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7"
+  }
+}

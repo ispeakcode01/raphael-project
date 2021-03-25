@@ -1,0 +1,24 @@
+{
+ "tasks" : [
+    {
+        "id": 1, 
+         "task": "Go to bed early"
+    }, 
+    {
+        "id": 2, 
+        "task": "Wake up early"
+    }, 
+    {
+        "id": 3,
+        "task": "Show up at EDA on time"
+    }, 
+    {
+        "id": 4,
+        "task": "Create a great team project"
+    }, 
+    {
+        "id": 5,
+        "task": "Present Project"
+    }
+]
+}
